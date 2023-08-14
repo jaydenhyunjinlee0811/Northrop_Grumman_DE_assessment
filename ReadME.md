@@ -6,7 +6,7 @@
 
 ### **Candidate**: Jayden Lee
 
-This repository contains my work for Data Engineer Candidate Assignment for Northrop Grumman. The written answer for Questionnaire.$4$ is written at the bottom of this Markdown file.
+This repository contains my work for Data Engineer Candidate Assignment for Northrop Grumman. The written answer for Questionnaire #4 is written at the bottom of this Markdown file.
 
 **<font color=orange>How to execute the script</font>**:
 
